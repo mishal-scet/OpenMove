@@ -1,6 +1,6 @@
-# Week 0 — How OpenMove Started
+# Week 0: How OpenMove Started
 
-**Date:** 12 July
+<img width="992" height="367" alt="image" src="https://github.com/user-attachments/assets/5675df6a-0337-4f42-b91a-927032e87041" />
 
 ## A chessboard was apparently not dramatic enough
 
@@ -10,7 +10,7 @@ Somewhere between that and the magical chessboard from *Harry Potter*, I got stu
 
 Not a finished product. Not even a particularly sensible first project idea. Just a very specific kind of curiosity that refused to leave.
 
-I had been into open source software for a while, so the name **OpenMove** felt right
+I had been into open source software for a while, so the name **OpenMove** felt right.
 
 ## Getting into BIR
 
@@ -36,7 +36,7 @@ The practical details were not simple at all.
 
 How would the board distinguish pieces reliably? How would a mechanism move across all 64 squares without getting stuck, losing position, or dragging pieces it was not supposed to touch? Could magnets move a piece through the board cleanly? Could the electronics, mechanics, and chess logic be kept separate enough that debugging one did not destroy the others?
 
-At this stage, those were questions—not solved engineering decisions.
+At this stage, those were questions — not solved engineering decisions.
 
 ## Why I wanted to explore it
 
